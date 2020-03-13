@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:-//Microsoft Corporation//Outlook 11.0 MIMEDIR//EN
+BEGIN:VEVENT
+UID:129865d9ffe681828a
+DTSTAMP:20191011T040040Z
+DTSTART:20191017T103000Z
+DTEND:20191017T123000Z
+SUMMARY:Platform Integration
+LOCATION:Webinar
+DESCRIPTION:https://event.on24.com/interface/registration/autoreg/index.html?eventid=2101564&sessionid=1&key=6B8E3A665594BA371A6CAEE796BD9F42&firstname=Tuan&lastname=Ngo&email=tngo25@dxc.com&job_title=Developer+%2F+Engineer&company=DXC&country=&zip=&work_phone=\n\nThis training will provide you a high-level overview of the capabilities of Microsoft Dynamics 365 and the Power Platform. It will provide a foundation for other Microsoft Dynamics 365 technology courses. You will get foundational knowledge to build apps on the Power Platform. This course will also help you in your preparation towards MB-200 exam.\n\nAgenda:\n\nIntroduction to Integrations\nIntegration with Office\nManaging Data\n
+END:VEVENT
+END:VCALENDAR

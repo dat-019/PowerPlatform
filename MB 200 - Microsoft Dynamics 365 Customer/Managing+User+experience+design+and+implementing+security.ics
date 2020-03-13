@@ -1,0 +1,14 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+METHOD:PUBLISH
+PRODID:-//Microsoft Corporation//Outlook 11.0 MIMEDIR//EN
+BEGIN:VEVENT
+UID:32415d9ffe528242e
+DTSTAMP:20191011T040018Z
+DTSTART:20191015T103000Z
+DTEND:20191015T123000Z
+SUMMARY:Managing User experience design and implementing security
+LOCATION:Webinar
+DESCRIPTION:https://event.on24.com/interface/registration/autoreg/index.html?eventid=2101552&sessionid=1&key=B15FAB800D97AC285881DF182F910AA7&firstname=Tuan&lastname=Ngo&email=tngo25@dxc.com&job_title=Developer+%2F+Engineer&company=DXC&country=&zip=&work_phone=\n\nThis training will provide you a high-level overview of the capabilities of Microsoft Dynamics 365 and the Power Platform. It will provide a foundation for other Microsoft Dynamics 365 technology courses. You will get foundational knowledge to build apps on the Power Platform. This course will also help you in your preparation towards MB-200 exam.\n\nAgenda:\n\nConfiguring Forms\, Views\, Charts\, Dashboards\, Reports\nCanvas Apps (User Experience design)\nPlatform Security\n
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,19 @@
+Production type environment cannot be restored.
+To restore a backup for production, convert production to sandbox environment -> proceed restoring the backup for the environment -> then convert back the environment from sandbox to production
+
+Power App types: Canvas apps and Model-Driven apps
+
+Canvas apps:
+Can run standalone in the web or mobile player, but can also be embedded into Power BI, SharePoint, Teams
+Canvas app can start from blank, or a template.
+Canvas app can also be included as part of CDS solution package and enterprise deployments
+
+Model-Driven apps:
+More Complex than canvas apps
+Rich component-focused no-code design environments.
+Create complex responsive apps with a similar UI across a variety of devices from desktop to mobile
+Design capability similar to what's available in the Dynamics 365 for Customer Engagement platform
+Your app can be distributed as a solution
+
+Model-Driven apps have to use Common Data Service (common data service database) with entities. (e.g. D365 for customer engagement)
+Canvas apps can connect to other external datasource such as SQL Server, MySQL...

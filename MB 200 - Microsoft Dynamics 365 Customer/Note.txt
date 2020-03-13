@@ -1,0 +1,6 @@
+This training will provide you a high-level overview of the capabilities of Microsoft Dynamics 365 and the Power Platform.
+It will provide a foundation for other Microsoft Dynamics 365 technology courses.
+You will get foundational knowledge to build apps on the Power Platform. 
+This course will also help you in your preparation towards MB-200 exam.
+
+
