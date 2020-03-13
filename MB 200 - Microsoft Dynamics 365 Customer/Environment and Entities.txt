@@ -7,6 +7,7 @@ Canvas apps:
 Can run standalone in the web or mobile player, but can also be embedded into Power BI, SharePoint, Teams
 Canvas app can start from blank, or a template.
 Canvas app can also be included as part of CDS solution package and enterprise deployments
+With choice of right connector, Canvas app can use different type of datasources such as SQL, Sharepoint, ...Whereas, Model Driven app have to use Common Data Service (common data service database) with entities as datasource.
 
 Model-Driven apps:
 More Complex than canvas apps

@@ -1,0 +1,3 @@
+https://docs.microsoft.com/en-us/dynamics365/customerengagement/on-premises/developer/use-metadata-generate-entity-diagrams
+
+https://www.shanebart.com/generate-dynamics-crm-erd/
