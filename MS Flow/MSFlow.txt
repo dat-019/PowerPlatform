@@ -1,0 +1,16 @@
+1. Way to fire a flow (Trigger)
+
+- Per user - e.g. the user clicks on the Flow button for mobile -> call a flow via HTTP request
+- Recurrence schedule: Schedule a flow to run by pre-defined interval
+- When an item is created (SP list item, D365 entity record, Outlook when a new email arrives ...)
+
+Calling flow from external application:
+- Create a flow with Http Request trigger, then use the generated url of created flow to call from external system, e.g. via javascript
+
+2. Actions in Flow.
+- Use flow to query data from Sharepoint; Dynamics 365 CRM;... using OData query
+	OData: Is a REST web protocol with standardization and can be used from mulitple external systems.
+		 : Ref - OData Cheat Sheet: https://help.nintex.com/en-us/insight/OData/HE_CON_ODATAQueryCheatSheet.htm
+- Calling WebAPI from flow:
+	Use following actions: 1. Http Request
+						   2. Parse Json: parse json text  with pre-defined schema from the response body of Http Request action
