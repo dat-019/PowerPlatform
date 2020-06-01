@@ -1,0 +1,12 @@
+How to create a power app trial environment:
+Go to: https://powerapps.microsoft.com/en-us/pricing/
+Choose "Try free" under option "Run unlimited apps", then following related steps..
+
+Trial Power App account:
+account: dat019@tngo25trialpowerapps.onmicrosoft.com
+pwd: Susaigon!@#
+
+Related sites:
+MS 365 admin center: https://admin.microsoft.com/AdminPortal (manage billing accounts, licenses, ...)
+Powerapp page: https://make.powerapps.com/
+
