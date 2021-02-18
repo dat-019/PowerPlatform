@@ -10,3 +10,19 @@ Related sites:
 MS 365 admin center: https://admin.microsoft.com/AdminPortal (manage billing accounts, licenses, ...)
 Powerapp page: https://make.powerapps.com/
 
+--------------------------------------------------------
+
+18/02/2021
+---
+Create D365 trial environment first, once completed the SharePoint site will be automatically created.
+
+Link to create D365 trial: https://trials.dynamics.com/
+
+UserID:
+dat019@tuanngod365trial.onmicrosoft.com
+Susaigon123!@#
+URL: https://dat019-dev.crm.dynamics.com/
+
+SharePoint Online site: https://tuanngod365trial.sharepoint.com/sites/myteam/_layouts/15/viewlsts.aspx?view=14
+---
+
